@@ -45,7 +45,9 @@
 
 ## 📱 Aperçu
 
-Ce dépôt contient la **configuration device** du **Samsung Galaxy A7 (2018)**, nom de code `a7y18lte`. Il est basé sur le firmware stock `A107FXXU8BUC2`.
+Ce dépôt contient la **configuration device** du **Samsung Galaxy A7 (2018)**, nom de code `a7y18lte`.
+
+* **Il est basé sur le firmware stock.**
 
 > [!NOTE]
 > Ce projet est destiné aux développeurs et aux mainteneurs de ROM. Sauvegardez vos partitions (EFS, modem) avant toute modification.
@@ -174,7 +176,7 @@ timeline
 
 ## 🙏 Crédits
 
-- Firmware de base : **A107FXXU8BUC2**
+- Firmware de base : **Rom STOCK**
 - Image : [GSMArena](https://www.gsmarena.com/)
 - Badges : [Shields.io](https://shields.io)
 
