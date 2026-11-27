@@ -1,0 +1,1 @@
+# Samsung-a7y18lte-device
