@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1428A0,100:00B4D8&text=Galaxy%20A7%202018&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Device%20Configuration%20%E2%80%A2%20a7y18lte%20%E2%80%A2%20v1.0&descAlignY=60&animation=fadeIn" alt="Banner"/>
 
-<a href="https://github.com/USER/Samsung-a7y18lte-device">
+<a href="https://github.com/teremuhamblin/Samsung-a7y18lte-device">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&width=620&lines=Device+tree+for+Samsung+Galaxy+A7+(2018);Exynos+7885+%E2%80%A2+Mali-G71+%E2%80%A2+Android+8+Oreo;Optimis%C3%A9+pour+la+performance+maximale" alt="Typing SVG"/>
 </a>
 
 <br/>
+
+---
 
 ![Version](https://img.shields.io/badge/version-1.0-00B4D8?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Device](https://img.shields.io/badge/device-a7y18lte-00B4D8?style=for-the-badge&logo=samsung&logoColor=white)
@@ -15,12 +17,13 @@
 
 ---
 
-![License](https://img.shields.io/github/license/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
-![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=squate&color=purple)
-![Forks](https://img.shields.io/github/forks/teremuhamblin/Samsung-a7y18lte-device?style=flat-squate&logo=purple)
+![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=square&color=purple)
 ![Issues](https://img.shields.io/github/issues/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
 ![Last commit](https://img.shields.io/github/last-commit/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
 ![Repo size](https://img.shields.io/github/repo-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
+
+---
+
 ![Code size](https://img.shields.io/github/languages/code-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-purple)
 ![Top language](https://img.shields.io/github/languages/top/teremuhamblin/Samsung-a7y18lte-device?style=flat-purple)
 
