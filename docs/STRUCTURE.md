@@ -1,5 +1,5 @@
 # Structure du dépôt
-
+### v1.0
 Device tree pour le **Samsung Galaxy A7 (2018)** — codename `a7y18lte` (SM-A750F).
 
 ```text
