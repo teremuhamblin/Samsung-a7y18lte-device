@@ -1,0 +1,2 @@
+add_lunch_combo lineage_a7y18lte-userdebug
+add_lunch_combo lineage_a7y18lte-eng

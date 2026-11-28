@@ -1,0 +1,41 @@
+DEVICE_PATH := device/samsung/a7y18lte
+
+# Architecture (Exynos 7885 : 2x Cortex-A73 + 6x Cortex-A53)
+TARGET_ARCH := arm64
+TARGET_ARCH_VARIANT := armv8-a
+TARGET_CPU_ABI := arm64-v8a
+TARGET_CPU_ABI2 :=
+TARGET_CPU_VARIANT := generic
+
+TARGET_2ND_ARCH := arm
+TARGET_2ND_ARCH_VARIANT := armv8-a
+TARGET_2ND_CPU_ABI := armeabi-v7a
+TARGET_2ND_CPU_ABI2 := armeabi
+TARGET_2ND_CPU_VARIANT := generic
+
+# Plateforme
+TARGET_BOARD_PLATFORM := exynos5
+TARGET_SOC := exynos7885
+TARGET_BOOTLOADER_BOARD_NAME := universal7885
+TARGET_NO_BOOTLOADER := true
+
+# Kernel (TODO: vérifier avec le boot.img stock)
+BOARD_KERNEL_CMDLINE := # TODO
+BOARD_KERNEL_BASE := # TODO
+BOARD_KERNEL_PAGESIZE := 2048
+TARGET_KERNEL_SOURCE := kernel/samsung/exynos7885
+TARGET_KERNEL_CONFIG := # TODO
+
+# Partitions (TODO: valeurs à relever sur l'appareil)
+BOARD_BOOTIMAGE_PARTITION_SIZE := # TODO
+BOARD_RECOVERYIMAGE_PARTITION_SIZE := # TODO
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := # TODO
+BOARD_USERDATAIMAGE_PARTITION_SIZE := # TODO
+BOARD_FLASH_BLOCK_SIZE := 262144
+TARGET_USERIMAGES_USE_EXT4 := true
+
+# SELinux
+BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
+
+# Blobs propriétaires
+-include vendor/samsung/a7y18lte/BoardConfigVendor.mk

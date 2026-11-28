@@ -1,0 +1,8 @@
+# Blobs propriétaires à extraire du firmware stock (SM-A750F)
+# Format : chemin/source[:chemin/destination][|sha1]
+
+# Audio
+# Caméra
+# GPU (Mali)
+# Modem / RIL
+# Sensors
