@@ -11,18 +11,23 @@
 ![Version](https://img.shields.io/badge/version-1.0-00B4D8?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Device](https://img.shields.io/badge/device-a7y18lte-00B4D8?style=for-the-badge&logo=samsung&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-8%20Oreo-00B4D8?style=for-the-badge&logo=android&logoColor=white)
-![SoC](https://img.shields.io/badge/Exynos-7885-00B4D8?style=for-the-badge&logo=samsung&logoColor=white)
+![SoC](https://img.shields.io/badge/Exynos-7885-00B4C5?style=for-the-badge&logo=samsung&logoColor=white)
 
-![License](https://img.shields.io/github/license/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
-![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=gold&color=gold)
-![Forks](https://img.shields.io/github/forks/teremuhamblin/Samsung-a7y18lte-device?style=flat-gold&logo=gold)
-![Issues](https://img.shields.io/github/issues/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
-![Last commit](https://img.shields.io/github/last-commit/USER/Samsung-a7y18lte-device?style=flat-square&color=gold)
-![Repo size](https://img.shields.io/github/repo-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
-![Code size](https://img.shields.io/github/languages/code-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-fold)
-![Top language](https://img.shields.io/github/languages/top/teremuhamblin/Samsung-a7y18lte-device?style=flat-gold)
-![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-gold)
-![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-gold)
+---
+
+![License](https://img.shields.io/github/license/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
+![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=squate&color=purple)
+![Forks](https://img.shields.io/github/forks/teremuhamblin/Samsung-a7y18lte-device?style=flat-squate&logo=purple)
+![Issues](https://img.shields.io/github/issues/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
+![Last commit](https://img.shields.io/github/last-commit/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
+![Repo size](https://img.shields.io/github/repo-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=purple)
+![Code size](https://img.shields.io/github/languages/code-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-purple)
+![Top language](https://img.shields.io/github/languages/top/teremuhamblin/Samsung-a7y18lte-device?style=flat-purple)
+
+---
+
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-purple)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-purple)
 
 </div>
 
@@ -33,12 +38,12 @@
 | # | Section | Description |
 |:-:|:--------|:------------|
 | 1 | [📱 Aperçu](#-aperçu) | Présentation du projet |
-| 2 | [📊 Fiche technique](#-fiche-technique) | Spécifications matérielles |
-| 3 | [🧠 Architecture](#-architecture) | Schéma du SoC et de la pile logicielle |
-| 4 | [⚡ Performance](#-performance) | Graphiques et optimisations |
-| 5 | [🛠️ Compilation](#️-compilation) | Mise en route |
-| 6 | [🗺️ Feuille de route](#️-feuille-de-route) | Planning |
-| 7 | [🤝 Contribuer](#-contribuer) | Guide de contribution |
+| 2 | [📊 Fiches](#-fiche-technique) | Spécifications matérielles |
+| 3 | [🧠 Archit.](#-architecture) | Schéma du SoC et de la pile logicielle |
+| 4 | [⚡ Perfor.](#-performance) | Graphiques et optimisations |
+| 5 | [🛠️ Compils.](#️-compilation) | Mise en route |
+| 6 | [🗺️ F. Route](#️-feuille-de-route) | Planning |
+| 7 | [🤝 Contrib.](#-contribuer) | Guide de contribution |
 | 8 | [🙏 Crédits](#-crédits) | Sources et firmware |
 
 ---
