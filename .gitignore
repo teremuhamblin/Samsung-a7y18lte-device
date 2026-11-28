@@ -1,0 +1,23 @@
+# Build
+out/
+*.zip
+*.img
+*.tar
+*.md5
+
+# Blobs extraits (vendor)
+vendor/
+extracted/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Sensible
+*.pem
+*.key
+efs*
+*.log
