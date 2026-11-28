@@ -8,21 +8,21 @@
 
 <br/>
 
-![Version](https://img.shields.io/badge/version-1.0-1428A0?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.0-00B4D8?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Device](https://img.shields.io/badge/device-a7y18lte-00B4D8?style=for-the-badge&logo=samsung&logoColor=white)
-![Android](https://img.shields.io/badge/Android-8%20Oreo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SoC](https://img.shields.io/badge/Exynos-7885-0A5CFF?style=for-the-badge&logo=samsung&logoColor=white)
+![Android](https://img.shields.io/badge/Android-8%20Oreo-00B4D8?style=for-the-badge&logo=android&logoColor=white)
+![SoC](https://img.shields.io/badge/Exynos-7885-00B4D8?style=for-the-badge&logo=samsung&logoColor=white)
 
-![License](https://img.shields.io/github/license/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=github&color=gold)
-![Forks](https://img.shields.io/github/forks/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=github)
-![Issues](https://img.shields.io/github/issues/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=red)
-![Last commit](https://img.shields.io/github/last-commit/USER/Samsung-a7y18lte-device?style=flat-square&color=success)
-![Repo size](https://img.shields.io/github/repo-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=orange)
-![Code size](https://img.shields.io/github/languages/code-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square)
-![Top language](https://img.shields.io/github/languages/top/teremuhamblin/Samsung-a7y18lte-device?style=flat-square)
-![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
-![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-square)
+![License](https://img.shields.io/github/license/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
+![Stars](https://img.shields.io/github/stars/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&logo=gold&color=gold)
+![Forks](https://img.shields.io/github/forks/teremuhamblin/Samsung-a7y18lte-device?style=flat-gold&logo=gold)
+![Issues](https://img.shields.io/github/issues/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
+![Last commit](https://img.shields.io/github/last-commit/USER/Samsung-a7y18lte-device?style=flat-square&color=gold)
+![Repo size](https://img.shields.io/github/repo-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-square&color=gold)
+![Code size](https://img.shields.io/github/languages/code-size/teremuhamblin/Samsung-a7y18lte-device?style=flat-fold)
+![Top language](https://img.shields.io/github/languages/top/teremuhamblin/Samsung-a7y18lte-device?style=flat-gold)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-gold)
+![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-gold)
 
 </div>
 
